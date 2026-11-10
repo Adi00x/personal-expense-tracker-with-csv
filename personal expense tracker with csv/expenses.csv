@@ -1,0 +1,8 @@
+id,date,category,amount,description
+2,2024-01-16,Transportation,15.75,Bus fare
+3,2024-01-15,Food & Dining,25.50,Test lunch
+4,2024-01-16,Transportation,15.75,Bus fare
+5,2026-11-05,Food & Dining,20.00,Test interactive
+6,2026-11-05,NewCategory,10.00,Test new category
+1,2024-01-01,Food,10.00,Test
+7,2024-01-02,Transport,20.00,Test2
